@@ -10,3 +10,4 @@ pymongo==3.11.3
 six==1.15.0
 toml==0.10.2
 Werkzeug==1.0.1
+gevent
